@@ -10,18 +10,26 @@
 
 ## 1. 起步过程
 
-![https://github.com/whfdnv/mou/blob/main/car/01%20%E8%B5%B7%E6%AD%A5.jpg]()
-
-
+![](https://raw.githubusercontent.com/whfdnv/pics/main/01 起步.jpg?token=AIQYOMG4X2WWPSQLGQBK6VLCQMBLG)
 
 ## 2. 行车过程
 
-![https://github.com/whfdnv/mou/blob/main/car/02%20%E8%A1%8C%E8%BD%A6.jpg]()
+正常行车过程操作及注意事项：
+
+![02 行车](https://raw.githubusercontent.com/whfdnv/pics/main/02 行车.jpg?token=AIQYOMCMX7546GFJUFNFMXTCQMAKO)
 
 
 
-![https://github.com/whfdnv/mou/blob/main/car/03%20%E7%BA%A2%E7%81%AF.jpg]()
+路遇红绿灯操作：
+
+![](https://raw.githubusercontent.com/whfdnv/pics/main/03 红灯.jpg?token=AIQYOMHOGPGE45LF6ED6TD3CQMBAA)
+
+
+
+
 
 ## 3. 停车过程
 
-![https://github.com/whfdnv/mou/blob/main/car/04%20%E5%81%9C%E8%BD%A6.jpg]()
+停车注意事项：
+
+![](https://raw.githubusercontent.com/whfdnv/pics/main/04 停车.jpg?token=AIQYOMEPMJ6DVKQBVPQ6D2LCQMBEU)
